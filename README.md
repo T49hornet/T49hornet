@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="APS X-TREME Banner" width="100%">
+</p>
+
 # Hi there, I'm @T49hornet 👋
 
 ### 👨‍💻 Android Systems Developer
